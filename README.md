@@ -9,6 +9,5 @@
 <br>
 Infografía sobre la complejidad del desarrollo de software con calidad atacada desde la Ingeniería de Software desarrollada desde Canvas.
 <br>
-<img src="Complejidad del desarrollo de software con calidad.png">
-<embed src="Complejidad del desarrollo de software con calidad.pdf" width="800px" height="2100px" />
-<iframe src="Complejidad del desarrollo de software con calidad.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+<img src="Complejidad del desarrollo de software con calidad_1.png">
+<img src="Complejidad del desarrollo de software con calidad_2.png">
