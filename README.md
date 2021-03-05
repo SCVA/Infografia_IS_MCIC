@@ -9,4 +9,4 @@
 <br>
 Infografía sobre la complejidad del desarrollo de software con calidad atacada desde la Ingeniería de Software desarrollada desde Canvas.
 <br>
-<img src="RelacionesInformaticaDisciplinas.png">
+<img src="Complejidad del desarrollo de software con calidad.jpg">
