@@ -11,3 +11,4 @@ Infografía sobre la complejidad del desarrollo de software con calidad atacada 
 <br>
 <img src="Complejidad del desarrollo de software con calidad.png">
 <embed src="Complejidad del desarrollo de software con calidad.pdf" width="800px" height="2100px" />
+<iframe src="Complejidad del desarrollo de software con calidad.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
